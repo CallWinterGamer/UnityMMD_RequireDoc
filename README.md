@@ -18,6 +18,8 @@ https://www.aplaybox.com/search?value=
 
 pmx文件导入后用插件转换成FBX就可以了,记得设置`Rig`为`Humanoid`  
 
+----------------
+
 ## 模型动作(分两种,mmd-vmd,普通的FBX)
 
 一般的mmd动画文件是vmd格式的,这个同样在借物网站下载以后转换一下就可以了,
@@ -28,4 +30,11 @@ https://www.mixamo.com/#/
 在`mixamo`找到想要的动作,直接下载裸模(`必须带模型`)  
 然后将FBX导入到 Unity 中以后转成 `Humanoid` 就可以直接用动作了 
 
+----------------
 
+## 使用Unity做MMD的好处
+
+1. 可以采用Unity的工具做一个近似于游戏的MMD  
+2. 可以结合Unity完整的工具链(比如Timeline,Animator,后处理,ShaderLab...)
+3. 可以编程控制MMD流程(基于已有框架)
+4. 总而言之,MMD可以不仅仅是MMD
