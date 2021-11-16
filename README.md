@@ -38,3 +38,8 @@ https://www.mixamo.com/#/
 2. 可以结合Unity完整的工具链(比如Timeline,Animator,后处理,ShaderLab...)
 3. 可以编程控制MMD流程(基于已有框架)
 4. 总而言之,MMD可以不仅仅是MMD
+
+
+# SFMMD RPG已经启动啦
+
+![](QQ截图20211116120942.jpg)
