@@ -1,0 +1,8 @@
+一开始打包的时候一直不显示模型,怀疑是Shader的问题.经过无数恶心的调试后(包括Always include in shader),定位到原因是MMD4Mecanim这个插件的问题
+
+MMD4Mecanim这个插件在Editor模式下会在Preprocess时加载其依赖,而这些依赖决定了它的Shader能否渲染
+
+但是运行时呢?  
+
+运行时想要初始化,其实只需要在GameLaunch上挂上MMD4MecanimModel这个脚本就可以了
+
