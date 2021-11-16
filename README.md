@@ -4,6 +4,16 @@
 
 ----------------
 
+
+# SFMMD RPG已经启动啦
+
+![](s1.jpg)
+
+
+![](s2.jpg)
+
+
+
 ## mmd模型转FBX
 
 https://stereoarts.jp/
@@ -39,7 +49,3 @@ https://www.mixamo.com/#/
 3. 可以编程控制MMD流程(基于已有框架)
 4. 总而言之,MMD可以不仅仅是MMD
 
-
-# SFMMD RPG已经启动啦
-
-![](QQ截图20211116120942.jpg)
