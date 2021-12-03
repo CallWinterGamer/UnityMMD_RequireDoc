@@ -4,18 +4,6 @@
 
 ----------------
 
-
-# SFMMD RPG目前的战斗系统
-
-![](s1.jpg)
-
-
-![](s2.jpg)
-
-![](s3.jpg)
-
-![](s4.jpg)
-
 ## mmd模型转FBX
 
 https://stereoarts.jp/
